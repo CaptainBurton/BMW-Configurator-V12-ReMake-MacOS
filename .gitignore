@@ -1,0 +1,13 @@
+# Apps and disk images belong on the Releases page, not in the repository
+*.app
+*.dmg
+*.zip
+*.sha256
+
+# Original BMW configurator files (copyrighted – never commit)
+BMW Configurator/
+data/
+*.iso
+
+# macOS
+.DS_Store
